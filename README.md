@@ -40,6 +40,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilvacunha/)](https://www.linkedin.com/in/felipesilvacunha/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.cunhafelipe@gmail.com)](mailto:contato.cunhafelipe@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/cunhafelipe)
+[![Linkedin](https://img.shields.io/badge/-cunhafelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesilvacunha/)](https://www.linkedin.com/in/felipesilvacunha/)
+[![Gmail Badge](https://img.shields.io/badge/-contato.cunhafelipe@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.cunhafelipe@gmail.com)](mailto:contato.cunhafelipe@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/cunhafelipe?label=follow&style=social)](https://github.com/cunhafelipe)
